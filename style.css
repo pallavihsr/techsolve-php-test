@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container form{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.container form label{
+    font-size: 12px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.container input, .container textarea{
+    width: 280px;
+    padding: 0.5rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.result_area{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 2rem auto;
+    width: 350px;
+    border-radius: 5px;
+}
+
+.result{
+    margin: auto;
+}
