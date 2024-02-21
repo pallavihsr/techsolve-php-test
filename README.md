@@ -8,3 +8,6 @@
 - Then import contact_form.sql 
 - After that start apache and Mysql from Xampp
 - Visit http://localhost/techsolve-php-test/
+
+
+#### Note: If you want mail to work perfectly fine setup your mail configuration in php.ini file of xampp installed on your machine.
